@@ -28,7 +28,7 @@ void setup ()
 
 void loop ()
 {
-  // The momentary switch is hardware debounced with a 1uF capacitor; no
+  // The momentary switch is hardware debounced with a 0.1uF capacitor; no
   // debouncing code is necessary. See http://www.gammon.com.au/switches
   // Read the voltage from the momentary switch pin to see if something
   // has changed (was the button pressed or released?)
