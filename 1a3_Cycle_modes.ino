@@ -86,7 +86,7 @@ void loop ()
   }
   
   // If the cycleCounter reached the highest value
-  if (cycleCounter >= LEDcount)
+  if (cycleCounter > LEDcount)
   {
     // reset it to 0, so the cycle can start again
     cycleCounter = 0;
