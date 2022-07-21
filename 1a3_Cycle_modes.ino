@@ -72,16 +72,16 @@ void loop ()
   switch (cycleCounter)
   {
     case 1:
-      Serial.print("Blue LED on; cycleCounter is at "); Serial.println(cycleCounter);
+      Serial.print("Blue LED on; cycleCounter on "); Serial.println(cycleCounter);
       break;
     case 2:
-      Serial.print("Green LED on; cycleCounter is at "); Serial.println(cycleCounter);
+      Serial.print("Green LED on; cycleCounter on "); Serial.println(cycleCounter);
       break;
     case 3:
-      Serial.print("Yellow LED on; cycleCounter is at "); Serial.println(cycleCounter);
+      Serial.print("Yellow LED on; cycleCounter on "); Serial.println(cycleCounter);
       break;
     case 4:
-      Serial.print("Red LED on; cycleCounter is at "); Serial.println(cycleCounter);
+      Serial.print("Red LED on; cycleCounter on "); Serial.println(cycleCounter);
       break;
   }
   
