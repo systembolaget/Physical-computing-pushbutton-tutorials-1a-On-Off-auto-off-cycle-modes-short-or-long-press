@@ -20,7 +20,7 @@ You can click the image to play the associated YouTube video
 €  1,00 Red, yellow, green & blue standard LEDs
 €  4,00 Half-size transparent breadboard
 €  1,00 Jumper cables
-€  1,00 1 µF 10V el. cap, 1 47Ω, 2 220Ω & 1 330Ω resistors
+€  1,00 0,1 µF (104) 10V cer. cap, 1 47Ω, 2 220Ω & 1 330Ω resistors
 € 22,00
 </pre>  
 
