@@ -8,9 +8,9 @@ You can click the image to play the associated YouTube video
 
 [![Alt text](Assets/#######.jpg)](https://www.youtube.com/watch?v=#######)
 
-### Schematic
+### Schematics
 
-![](Assets/#######.png)
+![](Assets/1a%20schematic%201.png)
 
 ### BOM
 
