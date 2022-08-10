@@ -1,4 +1,4 @@
-# Physical computing pushbutton tutorials - On-off, auto-off, cycle-modes, short or long-press
+# Physical computing pushbutton tutorials - On/Off, auto-off, cycle-modes, short or long-press
 
 Control anything with a single pushbutton. How to code for using momentary switches with Arduino
 
