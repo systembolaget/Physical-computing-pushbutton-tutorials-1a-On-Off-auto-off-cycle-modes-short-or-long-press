@@ -6,7 +6,7 @@ Control anything with a single pushbutton. How to code for using momentary switc
 
 You can click the image to play the associated YouTube video
 
-[![Alt text](Assets/1a%20result.jpg)](https://www.youtube.com/watch?v=#######)
+[![Alt text](Assets/1a%20result.jpg)](https://www.youtube.com/watch?v=JXw3n8AB2R8)
 
 ### Schematics
 
